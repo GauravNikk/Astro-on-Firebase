@@ -1,0 +1,14 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#ffffffff"
+    android:gravity="center_vertical|center"
+    android:orientation="vertical">
+
+<ImageView
+    android:layout_width="300dp"
+    android:layout_height="250dp"
+    android:id="@+id/cimg"/>
+
+</RelativeLayout>

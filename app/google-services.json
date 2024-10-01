@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "815848025353",
+    "firebase_url": "https://quizapp-43a57.firebaseio.com",
+    "project_id": "quizapp-43a57",
+    "storage_bucket": "quizapp-43a57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815848025353:android:1277edca6e7ffc747537d8",
+        "android_client_info": {
+          "package_name": "com.cilguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815848025353-j9vo31h39qq2nb0a1k7tait0omdqfph9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1v8loBB0mpYohqu1qVCWWe4GkIc_SDks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815848025353-j9vo31h39qq2nb0a1k7tait0omdqfph9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815848025353:android:4c5da34f510b261a7537d8",
+        "android_client_info": {
+          "package_name": "life.quotes.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815848025353-j9vo31h39qq2nb0a1k7tait0omdqfph9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1v8loBB0mpYohqu1qVCWWe4GkIc_SDks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815848025353-j9vo31h39qq2nb0a1k7tait0omdqfph9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

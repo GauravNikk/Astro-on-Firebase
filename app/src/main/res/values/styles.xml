@@ -1,0 +1,98 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowLayoutInDisplayCutoutMode" tools:targetApi="o_mr1">shortEdges
+        </item>
+        <item name="android:statusBarColor">@color/lightblue</item>
+        <item name="android:windowTranslucentNavigation" tools:targetApi="kitkat">false</item>
+        <item name="colorPrimary">@color/lightblue</item>
+        <item name="colorPrimaryDark">@color/lightblue</item>
+        <item name="colorAccent">@color/lightblue</item>
+    </style>
+
+    <style name="AppThemed" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@color/lightblue</item>
+        <item name="colorPrimary">@color/lightblue</item>
+        <item name="colorAccent">@color/lightblue</item>
+    </style>
+
+    <style name="AppThemei" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@color/lightblue</item>
+        <item name="colorPrimary">@color/lightblue</item>
+        <item name="colorAccent">@color/lightblue</item>
+    </style>
+
+    <style name="AppThemes" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@color/lightblue</item>
+        <item name="colorPrimary">@color/lightblue</item>
+        <item name="colorAccent">@color/lightblue</item>
+    </style>
+
+    <style name="AppThemeid" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@color/lightblue</item>
+        <item name="colorPrimary">@color/lightblue</item>
+        <item name="colorAccent">@color/lightblue</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <style name="CustomButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="FullscreenActionBarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style>
+
+    <!--    <style name="ButtonStyle" parent="@style/Widget.AppCompat.Button">-->
+    <!--        <item name="android:textColor">@color/white</item>-->
+    <!--        <item name="android:textStyle">bold</item>-->
+    <!--        <item name="android:layout_margin">@dimen/global_margin_x_small</item>-->
+    <!--        <item name="android:padding">@dimen/global_padding_extra</item>-->
+    <!--        <item name="android:background">@drawable/shape_rounded</item>-->
+    <!--    </style>-->
+    <style name="CustomToolbarStyle" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <!--Menu Item Theme-->
+    <style name="CustomPopupStyle" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@color/white</item>
+        <item name="overlapAnchor">false</item>
+        <item name="android:dropDownVerticalOffset">-4dp</item>
+    </style>
+
+    <!--Input Theme-->
+    <style name="CustomInputStyle" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@color/colorStandardBlack</item>
+        <item name="android:theme">@color/colorDarkBlue</item>
+    </style>
+
+    <style name="Theme_AlertDialog">
+
+        <item name="android:radius">10dp</item>
+        <item name="android:topLeftRadius">8dp</item>
+        <item name="android:topRightRadius">8dp</item>
+        <item name="android:bottomLeftRadius">8dp</item>
+        <item name="android:bottomRightRadius">8dp</item>
+        <item name="android:textColor">@color/dark</item>
+    </style>
+
+</resources>

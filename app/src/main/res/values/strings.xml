@@ -1,0 +1,83 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">CILGURU</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="subject">Subject</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile No.</string>
+    <string name="action_sign_in_short">REGISTER</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">RESET PASSWORD</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_send_token">Send Token</string>
+    <string name="btn_send_tokens">Send Tokens</string>
+    <string name="btn_send_topic">Send Topic</string>
+    <string name="btn_show_token">Show Token</string>
+    <string name="btn_subscribe_news">Subscribe (News)</string>
+    <string name="btn_unsubscribe_news">Unsubscribe (News)</string>
+    <string name="notification_channel_id">default</string>
+    <string name="result">Something will happen here&#8230;</string>
+    <string name="subscribed">Subscribed to news topic</string>
+    <string name="unsubscribed">Unsubscribed from news topic</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="settings_name">Account Settings</string>
+    <string name="abtus"><![CDATA[Deepak Gupta (CIL GURU) is a world-renowned astrologer practicing this divine science since decades. He is one of the best and famous astrologer and currently practicing astrology in Delhi NCR. Spiritualism was never a new concept for him as he was raised up in such a family where these things were quite common in his day to day life but Astrology was indeed a new root that got started through him. His keen interest in astrology aroused all of a sudden when he realised that people who were in need of some divine guidance & still, they could not find an easy-going astrologer who was there only to guide people genuinely & to eradicate myths that are being spread by some people]]></string>
+    <string name="mission">To eliminate myths about Astrological facts. To educate masses regarding latest information of Astrological techniques such as the Krishna Murti system, Cuspal Interlink, Lal Kitab, Mobile Numerology, Numero Vaastu a lot more. It’s just an attempt to indoctrinate astrological belief and to eradicate the fraudulent which has been spread by some Fake Astrologers who only try to swindle innocent people.</string>
+    <string name="vision">To convey astrological teachings in a very simple yet effective manner to freshers or experienced who so ever. Our aim is to promote astrological sciences, to reach to maximum number of person , on a very nominical cost ,and the best education Each respective field also to promote new students to train fully so that they may also setup educational institute in all city the country we may also emphasise that those who are mis guiding with a few knowledge in there own in all interest ,also we want to impart teaching a respect of all branches of astrological sciences under one roof , To convey astrological teachings in a very simple yet effective manner to freshers or experienced who so ever.</string>
+    <string name="rchus"><![CDATA[CILGURU has read many books to enhance his knowledge further more like Nakshtra Chintamani, Lal Kitab, Bhrigu Sanhita, BPHS, Krishna Murthi Paddhati, Sefriyal Numerology, Pancha-Pakshi Shastra and a lot more. He has guided many people round the globe in all important areas of life i.e. Business, Career, Matrimony, Personal Matters, Progeny, Education & a lot more. He has clientele from various parts of the world]]></string>
+    <string name="title_activity_full_image">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="register_success_popup">Done</string>
+    <string name="title_activity_video_play">FullscreenActivity</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="fullscreen_tutorial">This is a demo which shows how to handle fullscreen behaviour. This activity has differents layouts for portrait, landscape and fullscreen. The user can enter fullscreen either by using the player controller or programmatically by the programmer (here using a button). If your activity does not have a landscape layout, you can choose to automatically enter fullscreen when the device is rotated to landscape orientation.</string>
+    <string name="enter_fullscreen">Enter Fullscreen</string>
+    <string name="landscape_fullscreen">Always fullscreen in landscape</string>
+
+    <string name="seconds">secs</string>
+    <string name="player_style">Player Style</string>
+    <string name="def">Default</string>
+    <string name="minimal">Minimal</string>
+    <string name="chromeless">Chromeless</string>
+
+    <string name="play_video">Play video</string>
+    <string name="play_playlist">Play playlist</string>
+    <string name="play_video_list">Play video list</string>
+    <string name="start_index">Start index</string>
+    <string name="start_time">Start time (sec)</string>
+    <string name="autoplay">Autoplay</string>
+    <string name="lightbox_mode">Lightbox mode</string>
+
+    <string name="intent_select">Please select an action:</string>
+    <string name="intent_disabled">This intent is not supported with the currently installed version of YouTube.</string>
+    <string name="youtube_currently_installed">YouTube version installed on this device: <xliff:g id="youtube_version">%1$s</xliff:g>.</string>
+    <string name="youtube_not_installed">YouTube is not installed on this device.</string>
+    <string name="sorry_msg">Sorry! You\'re not purchased this course.\n Kindly visit Our Products and purchase the course to see all the desired videos.</string>
+
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="8dp"
+    android:layout_gravity="center"
+    app:cardElevation="5dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:padding="10dp"
+    android:background="@color/transparent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+   <TextView
+       android:id="@+id/hindilang"
+       android:layout_width="match_parent"
+       android:layout_height="40dp"
+       android:text="Hindi"
+       android:textStyle="bold"
+       android:textSize="20dp"
+       android:layout_margin="10dp"
+       android:gravity="center"/>
+    <TextView
+        android:id="@+id/mrthlang"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Marathi"
+        android:layout_margin="10dp"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:gravity="center"/>
+
+</LinearLayout>
